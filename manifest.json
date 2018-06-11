@@ -2,7 +2,7 @@
 "name" : "USD To INR Exchange Rate",
 "short_name" : "usdTOinr-Exchange",
 "description" : "USD To INR Exchange Rate is a free extension that would provide real time conversion rate.",
-"version":"1.0",
+"version":"2.0",
 
 "manifest_version":2,
 
